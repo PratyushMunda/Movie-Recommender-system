@@ -1,0 +1,14 @@
+//Recommender system:
+it is a system which will help users to get recommendation using the history of the user.
+
+//Types of Recommender system:
+
+ <I>Content Based:
+"When we recommend same type of content (On the basis of 'tags'). For example if a users listen to song of {Post Malone} the next song will be again of {Post Malone}"
+
+ <II>Colaborative Filltering
+"When we have two different users having similarity score of 9, if user1 watchs a movie M1 then this system will recommend M1 to user2"
+
+ <III>Hybrid
+"When we combine both Content based and Colaborative filltering system"
+
