@@ -12,3 +12,8 @@ it is a system which will help users to get recommendation using the history of 
  <III>Hybrid
 "When we combine both Content based and Colaborative filltering system"
 
+
+//<PROJECT FLOW>
+
+DATA ----> Preprocessing ----> Model(A.I) ----> Website ----> Deploy
+
